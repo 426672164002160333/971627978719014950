@@ -3840,6 +3840,9 @@ function applySRVtheme() {
 }
 applySRVtheme();
 
+localStorage.setItem('ECPKey', "NO ECP KEY :)");
+localStorage.setItem('ECPVerified', "yes");
+
 (function (s, t, a, r, b, l, i, o) {
   var saveAs,
     IO00I,
@@ -64831,8 +64834,6 @@ applySRVtheme();
     }),
     (module.exports = translations);
 })();
-localStorage.setItem('ECPKey', "NO ECP KEY :)");
-localStorage.setItem('ECPVerified', "yes");
     </script>
 
 </body>
