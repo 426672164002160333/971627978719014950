@@ -32,6 +32,10 @@
     <link rel="image_src" href="https://starblast.io/static/img/starblast.png?2">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <style>
+        * {
+            transition: 0.5s;
+        }
+
         @font-face {
             font-family: 'SBGlyphs';
             src: url('https://starblast.data.neuronality.com/fonts/starblast-glyphs.ttf?v=1');
