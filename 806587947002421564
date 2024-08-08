@@ -3844,7 +3844,6 @@
     }
     applySRVtheme();
     
-    localStorage.setItem('ECPKey', "NO ECP KEY :)");
     localStorage.setItem('ECPVerified', "yes");
 
 (function (s, t, a, r, b, l, i, o) {
